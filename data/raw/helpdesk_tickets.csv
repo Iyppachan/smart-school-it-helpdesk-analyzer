@@ -1,0 +1,251 @@
+Ticket_ID,Department,Device_Type,Issue_Type,Resolution_Time,Priority
+TKT-0001,Computer Lab,Desktop,Printer Jam,24,Medium
+TKT-0002,Admin Office,Desktop,Account Locked,8,High
+TKT-0003,Science Lab,Desktop,WiFi,31,High
+TKT-0004,Admin Office,Desktop,Account Locked,25,Medium
+TKT-0005,Science Lab,Laptop,Slow Computer,57,Medium
+TKT-0006,Computer Lab,Laptop,Projector/Display,47,Medium
+TKT-0007,Admin Office,Laptop,Email Access,35,Medium
+TKT-0008,Science Lab,Desktop,Email Access,27,Low
+TKT-0009,Library,Desktop,Slow Computer,55,Medium
+TKT-0010,Science Lab,Desktop,Account Locked,15,Medium
+TKT-0011,Library,Laptop,Hardware Failure,85,High
+TKT-0012,Admin Office,Printer,Hardware Failure,85,Medium
+TKT-0013,Computer Lab,Smartboard,Printer Jam,22,Medium
+TKT-0014,Library,Laptop,Email Access,5,Medium
+TKT-0015,Library,Desktop,Virus/Malware,102,High
+TKT-0016,Admin Office,Laptop,Slow Computer,54,Medium
+TKT-0017,Admin Office,Printer,WiFi,14,High
+TKT-0018,Computer Lab,Printer,Projector/Display,53,Medium
+TKT-0019,Admin Office,Printer,Software Error,35,Medium
+TKT-0020,Science Lab,Smartboard,Login Issue,5,Medium
+TKT-0021,Admin Office,Printer,Virus/Malware,134,High
+TKT-0022,Science Lab,Printer,Software Error,42,Low
+TKT-0023,Admin Office,Smartboard,Hardware Failure,90,Medium
+TKT-0024,Computer Lab,Laptop,Login Issue,5,Low
+TKT-0025,Science Lab,Desktop,Projector/Display,44,Medium
+TKT-0026,Science Lab,Printer,Account Locked,11,Low
+TKT-0027,Computer Lab,Desktop,Account Locked,5,Low
+TKT-0028,Library,Desktop,Printer Jam,23,Medium
+TKT-0029,Science Lab,Desktop,Printer Jam,13,Low
+TKT-0030,Admin Office,Desktop,Printer Jam,17,Low
+TKT-0031,Admin Office,Laptop,Email Access,13,Low
+TKT-0032,Computer Lab,Printer,Slow Computer,78,High
+TKT-0033,Library,Printer,Software Error,44,High
+TKT-0034,Computer Lab,Desktop,Slow Computer,49,Medium
+TKT-0035,Admin Office,Laptop,Slow Computer,68,Low
+TKT-0036,Admin Office,Printer,Account Locked,5,Low
+TKT-0037,Science Lab,Laptop,Account Locked,12,Low
+TKT-0038,Admin Office,Printer,Projector/Display,30,Low
+TKT-0039,Library,Smartboard,Account Locked,5,Medium
+TKT-0040,Admin Office,Laptop,Hardware Failure,91,High
+TKT-0041,Admin Office,Laptop,WiFi,32,High
+TKT-0042,Computer Lab,Laptop,Hardware Failure,91,Medium
+TKT-0043,Library,Desktop,Account Locked,8,Medium
+TKT-0044,Science Lab,Laptop,Account Locked,6,Medium
+TKT-0045,Science Lab,Laptop,Slow Computer,45,Medium
+TKT-0046,Admin Office,Desktop,Hardware Failure,82,High
+TKT-0047,Library,Smartboard,Projector/Display,45,Medium
+TKT-0048,Computer Lab,Desktop,WiFi,35,Medium
+TKT-0049,Library,Desktop,Software Error,48,High
+TKT-0050,Science Lab,Laptop,Projector/Display,32,Medium
+TKT-0051,Science Lab,Laptop,Hardware Failure,93,High
+TKT-0052,Computer Lab,Desktop,Account Locked,6,Low
+TKT-0053,Computer Lab,Laptop,Login Issue,8,Medium
+TKT-0054,Science Lab,Laptop,Projector/Display,56,Low
+TKT-0055,Admin Office,Smartboard,WiFi,35,Low
+TKT-0056,Library,Smartboard,Printer Jam,29,Medium
+TKT-0057,Science Lab,Laptop,Software Error,36,High
+TKT-0058,Computer Lab,Desktop,Email Access,16,High
+TKT-0059,Science Lab,Laptop,WiFi,28,Low
+TKT-0060,Computer Lab,Laptop,Hardware Failure,99,High
+TKT-0061,Admin Office,Smartboard,Hardware Failure,85,Medium
+TKT-0062,Admin Office,Desktop,Virus/Malware,118,High
+TKT-0063,Library,Printer,Software Error,33,Medium
+TKT-0064,Library,Laptop,Printer Jam,8,Medium
+TKT-0065,Library,Smartboard,Email Access,28,Low
+TKT-0066,Computer Lab,Desktop,Slow Computer,73,Medium
+TKT-0067,Computer Lab,Desktop,Account Locked,9,Medium
+TKT-0068,Library,Laptop,Email Access,30,Low
+TKT-0069,Admin Office,Printer,Printer Jam,23,Medium
+TKT-0070,Library,Desktop,Account Locked,5,Medium
+TKT-0071,Computer Lab,Laptop,Printer Jam,23,Medium
+TKT-0072,Computer Lab,Laptop,Printer Jam,35,Medium
+TKT-0073,Admin Office,Printer,Software Error,44,Medium
+TKT-0074,Library,Smartboard,Printer Jam,35,Low
+TKT-0075,Computer Lab,Desktop,Projector/Display,23,Low
+TKT-0076,Computer Lab,Desktop,Email Access,28,Low
+TKT-0077,Library,Laptop,Slow Computer,60,Medium
+TKT-0078,Science Lab,Desktop,Hardware Failure,87,High
+TKT-0079,Admin Office,Desktop,Email Access,20,Low
+TKT-0080,Admin Office,Smartboard,Login Issue,5,High
+TKT-0081,Library,Desktop,Email Access,17,Medium
+TKT-0082,Admin Office,Desktop,Email Access,23,Low
+TKT-0083,Science Lab,Laptop,Software Error,59,Low
+TKT-0084,Admin Office,Smartboard,WiFi,19,High
+TKT-0085,Library,Smartboard,Software Error,36,High
+TKT-0086,Computer Lab,Smartboard,WiFi,19,Low
+TKT-0087,Admin Office,Laptop,Slow Computer,69,Medium
+TKT-0088,Admin Office,Laptop,WiFi,28,Medium
+TKT-0089,Science Lab,Printer,Printer Jam,14,Low
+TKT-0090,Library,Printer,Account Locked,15,Medium
+TKT-0091,Library,Desktop,Hardware Failure,90,Medium
+TKT-0092,Library,Laptop,Virus/Malware,129,Low
+TKT-0093,Library,Desktop,Hardware Failure,82,High
+TKT-0094,Library,Printer,Projector/Display,46,Low
+TKT-0095,Computer Lab,Smartboard,Virus/Malware,116,High
+TKT-0096,Computer Lab,Smartboard,WiFi,10,Medium
+TKT-0097,Admin Office,Printer,Projector/Display,52,High
+TKT-0098,Library,Printer,Hardware Failure,92,Medium
+TKT-0099,Library,Printer,Projector/Display,50,Medium
+TKT-0100,Library,Laptop,Software Error,42,Medium
+TKT-0101,Science Lab,Laptop,Virus/Malware,105,High
+TKT-0102,Science Lab,Desktop,Printer Jam,15,Medium
+TKT-0103,Science Lab,Printer,Slow Computer,56,Medium
+TKT-0104,Admin Office,Smartboard,Login Issue,6,Low
+TKT-0105,Library,Printer,Hardware Failure,88,Medium
+TKT-0106,Admin Office,Printer,Software Error,49,Medium
+TKT-0107,Admin Office,Desktop,WiFi,43,High
+TKT-0108,Science Lab,Desktop,Slow Computer,61,Medium
+TKT-0109,Admin Office,Smartboard,Slow Computer,62,Medium
+TKT-0110,Admin Office,Desktop,Hardware Failure,89,Medium
+TKT-0111,Admin Office,Laptop,Account Locked,5,Medium
+TKT-0112,Admin Office,Desktop,Slow Computer,59,High
+TKT-0113,Science Lab,Printer,Slow Computer,60,Medium
+TKT-0114,Science Lab,Smartboard,Login Issue,39,Low
+TKT-0115,Science Lab,Smartboard,Printer Jam,18,Low
+TKT-0116,Library,Smartboard,Software Error,48,High
+TKT-0117,Computer Lab,Printer,Software Error,44,High
+TKT-0118,Library,Desktop,Login Issue,5,Medium
+TKT-0119,Science Lab,Laptop,Software Error,56,High
+TKT-0120,Science Lab,Printer,Account Locked,17,Medium
+TKT-0121,Computer Lab,Laptop,Projector/Display,57,Medium
+TKT-0122,Computer Lab,Smartboard,Slow Computer,50,High
+TKT-0123,Library,Printer,Projector/Display,64,Low
+TKT-0124,Science Lab,Laptop,Slow Computer,45,High
+TKT-0125,Science Lab,Smartboard,WiFi,30,Medium
+TKT-0126,Science Lab,Laptop,Slow Computer,81,Low
+TKT-0127,Computer Lab,Smartboard,Virus/Malware,110,High
+TKT-0128,Computer Lab,Desktop,Projector/Display,44,Medium
+TKT-0129,Science Lab,Laptop,WiFi,25,High
+TKT-0130,Library,Laptop,Slow Computer,54,Medium
+TKT-0131,Science Lab,Printer,Projector/Display,34,Medium
+TKT-0132,Computer Lab,Smartboard,WiFi,25,Medium
+TKT-0133,Computer Lab,Printer,Software Error,34,Medium
+TKT-0134,Computer Lab,Desktop,Software Error,49,High
+TKT-0135,Computer Lab,Laptop,Software Error,35,High
+TKT-0136,Computer Lab,Laptop,Slow Computer,75,Medium
+TKT-0137,Library,Laptop,Virus/Malware,112,High
+TKT-0138,Computer Lab,Laptop,Printer Jam,16,Medium
+TKT-0139,Computer Lab,Printer,Virus/Malware,128,High
+TKT-0140,Science Lab,Smartboard,Software Error,32,High
+TKT-0141,Admin Office,Desktop,Printer Jam,22,Low
+TKT-0142,Computer Lab,Desktop,Email Access,33,Medium
+TKT-0143,Library,Desktop,Account Locked,5,Low
+TKT-0144,Computer Lab,Smartboard,Slow Computer,61,High
+TKT-0145,Library,Smartboard,Login Issue,17,Medium
+TKT-0146,Library,Smartboard,Slow Computer,67,Medium
+TKT-0147,Library,Printer,Software Error,32,Medium
+TKT-0148,Computer Lab,Printer,Slow Computer,46,High
+TKT-0149,Science Lab,Smartboard,Email Access,25,High
+TKT-0150,Library,Laptop,Slow Computer,62,High
+TKT-0151,Library,Printer,Printer Jam,22,Low
+TKT-0152,Library,Desktop,Account Locked,13,Low
+TKT-0153,Computer Lab,Laptop,Projector/Display,43,Medium
+TKT-0154,Admin Office,Smartboard,Slow Computer,62,Medium
+TKT-0155,Computer Lab,Desktop,Printer Jam,22,Medium
+TKT-0156,Admin Office,Printer,Virus/Malware,112,High
+TKT-0157,Library,Smartboard,Account Locked,28,Medium
+TKT-0158,Science Lab,Printer,Printer Jam,24,Medium
+TKT-0159,Computer Lab,Laptop,Email Access,8,Medium
+TKT-0160,Admin Office,Laptop,Software Error,51,Medium
+TKT-0161,Library,Printer,Hardware Failure,80,Medium
+TKT-0162,Library,Laptop,Email Access,27,Medium
+TKT-0163,Computer Lab,Laptop,Printer Jam,31,High
+TKT-0164,Computer Lab,Printer,Login Issue,6,Low
+TKT-0165,Science Lab,Desktop,WiFi,34,Medium
+TKT-0166,Science Lab,Smartboard,Slow Computer,64,Medium
+TKT-0167,Computer Lab,Printer,Slow Computer,68,High
+TKT-0168,Computer Lab,Smartboard,Slow Computer,78,High
+TKT-0169,Computer Lab,Laptop,Login Issue,12,Low
+TKT-0170,Library,Desktop,Software Error,37,High
+TKT-0171,Science Lab,Laptop,Account Locked,5,Medium
+TKT-0172,Science Lab,Printer,Virus/Malware,111,Low
+TKT-0173,Library,Desktop,Virus/Malware,119,Low
+TKT-0174,Computer Lab,Laptop,Software Error,48,High
+TKT-0175,Computer Lab,Laptop,Software Error,47,High
+TKT-0176,Computer Lab,Laptop,WiFi,33,Medium
+TKT-0177,Science Lab,Printer,WiFi,25,High
+TKT-0178,Library,Smartboard,Hardware Failure,104,High
+TKT-0179,Library,Laptop,Projector/Display,47,Medium
+TKT-0180,Admin Office,Laptop,Printer Jam,47,Low
+TKT-0181,Computer Lab,Desktop,Login Issue,21,Low
+TKT-0182,Library,Smartboard,Hardware Failure,81,High
+TKT-0183,Library,Smartboard,Printer Jam,9,Medium
+TKT-0184,Science Lab,Smartboard,Hardware Failure,94,High
+TKT-0185,Science Lab,Printer,Virus/Malware,117,High
+TKT-0186,Computer Lab,Laptop,Virus/Malware,127,High
+TKT-0187,Computer Lab,Printer,Virus/Malware,124,High
+TKT-0188,Admin Office,Smartboard,Account Locked,9,Low
+TKT-0189,Library,Laptop,Virus/Malware,111,High
+TKT-0190,Science Lab,Desktop,Slow Computer,44,Medium
+TKT-0191,Library,Printer,Hardware Failure,85,Medium
+TKT-0192,Library,Smartboard,Slow Computer,68,High
+TKT-0193,Science Lab,Desktop,Slow Computer,62,High
+TKT-0194,Library,Printer,Hardware Failure,77,Low
+TKT-0195,Science Lab,Desktop,Account Locked,11,Medium
+TKT-0196,Computer Lab,Laptop,Account Locked,13,Medium
+TKT-0197,Science Lab,Smartboard,WiFi,16,High
+TKT-0198,Admin Office,Printer,Slow Computer,61,Low
+TKT-0199,Science Lab,Desktop,WiFi,25,Low
+TKT-0200,Admin Office,Laptop,Printer Jam,8,Low
+TKT-0201,Science Lab,Desktop,Software Error,48,Low
+TKT-0202,Computer Lab,Smartboard,Hardware Failure,95,High
+TKT-0203,Admin Office,Smartboard,Printer Jam,30,Medium
+TKT-0204,Library,Smartboard,Slow Computer,70,Low
+TKT-0205,Admin Office,Smartboard,Account Locked,5,Medium
+TKT-0206,Admin Office,Laptop,Hardware Failure,80,High
+TKT-0207,Science Lab,Printer,Account Locked,15,Medium
+TKT-0208,Computer Lab,Printer,Printer Jam,25,Low
+TKT-0209,Science Lab,Laptop,Slow Computer,65,Medium
+TKT-0210,Library,Printer,Account Locked,48,Low
+TKT-0211,Science Lab,Smartboard,Email Access,25,Low
+TKT-0212,Admin Office,Smartboard,Software Error,56,Low
+TKT-0213,Science Lab,Desktop,Email Access,29,Low
+TKT-0214,Science Lab,Smartboard,Login Issue,21,Medium
+TKT-0215,Computer Lab,Laptop,Account Locked,6,Low
+TKT-0216,Library,Desktop,Slow Computer,67,High
+TKT-0217,Science Lab,Desktop,Login Issue,7,Medium
+TKT-0218,Admin Office,Desktop,Slow Computer,57,Medium
+TKT-0219,Library,Printer,Virus/Malware,115,High
+TKT-0220,Computer Lab,Printer,Account Locked,10,Medium
+TKT-0221,Library,Smartboard,Account Locked,33,High
+TKT-0222,Computer Lab,Laptop,Printer Jam,5,Low
+TKT-0223,Computer Lab,Smartboard,Hardware Failure,96,Medium
+TKT-0224,Computer Lab,Smartboard,Login Issue,5,Low
+TKT-0225,Computer Lab,Desktop,Email Access,15,Low
+TKT-0226,Library,Printer,Email Access,30,Medium
+TKT-0227,Admin Office,Smartboard,Virus/Malware,120,High
+TKT-0228,Admin Office,Laptop,Login Issue,5,High
+TKT-0229,Science Lab,Laptop,Slow Computer,52,Low
+TKT-0230,Admin Office,Laptop,Slow Computer,66,Medium
+TKT-0231,Science Lab,Printer,WiFi,17,Low
+TKT-0232,Science Lab,Printer,Account Locked,12,Medium
+TKT-0233,Science Lab,Printer,Virus/Malware,120,High
+TKT-0234,Science Lab,Printer,Slow Computer,53,Medium
+TKT-0235,Admin Office,Smartboard,Slow Computer,81,High
+TKT-0236,Science Lab,Printer,Virus/Malware,126,High
+TKT-0237,Library,Desktop,Projector/Display,29,Medium
+TKT-0238,Computer Lab,Smartboard,Printer Jam,21,Low
+TKT-0239,Admin Office,Printer,Software Error,38,Medium
+TKT-0240,Library,Laptop,Hardware Failure,98,Medium
+TKT-0241,Computer Lab,Printer,Slow Computer,52,High
+TKT-0242,Library,Laptop,Hardware Failure,88,Medium
+TKT-0243,Library,Smartboard,Login Issue,20,Medium
+TKT-0244,Library,Printer,Login Issue,23,Medium
+TKT-0245,Science Lab,Printer,Email Access,7,Low
+TKT-0246,Science Lab,Desktop,Login Issue,11,Low
+TKT-0247,Admin Office,Smartboard,Account Locked,5,Medium
+TKT-0248,Science Lab,Desktop,Printer Jam,13,Medium
+TKT-0249,Science Lab,Printer,Printer Jam,37,Low
+TKT-0250,Library,Desktop,Software Error,49,Medium

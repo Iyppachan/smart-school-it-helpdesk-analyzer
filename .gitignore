@@ -6,6 +6,7 @@ __pycache__/
 .Python
 env/
 venv/
+.venv/
 ENV/
 build/
 develop-eggs/
@@ -38,6 +39,7 @@ wheels/
 # Data
 data/raw/*
 data/processed/*
+!data/raw/helpdesk_tickets.csv
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
